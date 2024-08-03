@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Mobile & Web Project**
 
-- 👨‍💻 All of my projects are available at [stion.site](stion.site)
+- 👨‍💻 You can check my portofolio on at [stion.site](stion.site)
 
 - 📫 How to reach me **jeremia123.jm@gmail.com**
 
