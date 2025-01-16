@@ -44,13 +44,14 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AxelanO7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AxelanO7&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AxelanO7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AxelanO7&theme=dracula&hide_border=false&hide_title=false&area=true&bg_color=292a36&color=fff" height="" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGE3b3g0enE0bmh2MGQ0YTB6NnB5NmVqaTFzYWI5Y2hwNmdkcXBzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47s514c8zngq1726uif0t1k8i4xptyphxngez8tuk1&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 
 ###
 
