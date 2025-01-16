@@ -116,6 +116,8 @@
 
 <br clear="both">
 
+<!--
 <img src="https://raw.githubusercontent.com/AxelanO7/AxelanO7/output/snake.svg" alt="Snake animation" />
+-->
 
 <br>
