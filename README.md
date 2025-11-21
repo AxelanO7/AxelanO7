@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremia Axelano</h1>
 <h3 align="center">Indonesian Software Engineer</h3>
 
-- 🔭 I’m currently working as **Tech Lead**
+- 🔭 I’m currently working as **CTO**
 
 - 👯 I’m looking to collaborate on **Mobile & Web Project**
 
