@@ -72,7 +72,7 @@
 ###
 
 <div align="left">
-  <a href="https://wa.me/+6282210487700" target="_blank">
+  <a href="https://wa.me/+6282246034453" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
   <a href="https://www.linkedin.com/in/jeremia-axelano/" target="_blank">
