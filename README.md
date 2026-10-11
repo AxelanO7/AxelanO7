@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:10b981&height=220&section=header&text=Jeremia%20Axelano&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Chief%20Technology%20Officer%20%7C%20Tech%20Leader%20%7C%20Builder&descAlignY=58&descSize=18&descColor=e2e8f0" width="100%"/>
 
-<a href="https://portfolio.exzet.site"><img src="https://img.shields.io/badge/Portfolio-portfolio.exzet.site-10b981?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://link.exzet.site"><img src="https://img.shields.io/badge/Links-link.exzet.site-0f172a?style=for-the-badge&logo=linktree&logoColor=10b981" /></a>
+<a href="https://portfolio.axelano.space"><img src="https://img.shields.io/badge/Portfolio-portfolio.axelano.space-10b981?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://link.axelano.space"><img src="https://img.shields.io/badge/Links-link.axelano.space-0f172a?style=for-the-badge&logo=linktree&logoColor=10b981" /></a>
 <a href="mailto:jeremia123.jm@gmail.com"><img src="https://img.shields.io/badge/Email-jeremia123.jm%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=10B981&center=true&vCenter=true&width=650&lines=I+build+platforms.+Then+I+scale+them.;CTO+%40+New+Directions+Success+(Guestlist);Architecting+AI%2C+Backend%2C+Mobile+%26+Cloud+systems;From+freelance+%E2%86%92+student+president+%E2%86%92+CTO" alt="Typing SVG" />
@@ -133,7 +133,7 @@ I'm a **builder with a trajectory** — not a title. Started freelancing in 2019
 <a href="https://wa.me/6282246034453" target="_blank"><img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp"/></a>
 <a href="https://www.instagram.com/j_axelano/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram"/></a>
 <a href="mailto:jeremia123.jm@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail"/></a>
-<a href="https://portfolio.exzet.site" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=10b981&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio"/></a>
+<a href="https://portfolio.axelano.space" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=10b981&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio"/></a>
 
 </div>
 
